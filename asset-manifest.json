@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bf5e5510.chunk.css",
+    "main.js": "./main.c2acc98946b0c7a46c48.bundle.js",
+    "main.css.map": "./static/css/main.bf5e5510.chunk.css.map",
+    "main.js.map": "./main.c2acc98946b0c7a46c48.bundle.js.map",
+    "runtime~main.js": "./runtime~main.c2acc98946b0c7a46c48.bundle.js",
+    "runtime~main.js.map": "./runtime~main.c2acc98946b0c7a46c48.bundle.js.map",
+    "vendors~main.js": "./vendors~main.c2acc98946b0c7a46c48.bundle.js",
+    "vendors~main.js.map": "./vendors~main.c2acc98946b0c7a46c48.bundle.js.map",
+    "iframe.html": "./iframe.html",
+    "precache-manifest.b02076aab59ae1b115286387652ae18e.js": "./precache-manifest.b02076aab59ae1b115286387652ae18e.js",
+    "service-worker.js": "./service-worker.js",
+    "vendors~main.c2acc98946b0c7a46c48.bundle.js.LICENSE.txt": "./vendors~main.c2acc98946b0c7a46c48.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.c2acc98946b0c7a46c48.bundle.js",
+    "vendors~main.c2acc98946b0c7a46c48.bundle.js",
+    "static/css/main.bf5e5510.chunk.css",
+    "main.c2acc98946b0c7a46c48.bundle.js"
+  ]
+}
